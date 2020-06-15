@@ -1,4 +1,4 @@
-baseURL = "https://example.kaloshin-ilya.ru"
+baseURL = ""
 theme = "stip"
 languageCode = "en-US"
 defaultContentLanguage = "ru"
