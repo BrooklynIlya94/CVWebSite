@@ -1,0 +1,38 @@
+baseURL = "https://example.kaloshin-ilya.ru"
+theme = "stip"
+languageCode = "en-US"
+defaultContentLanguage = "ru"
+title = "Kaloshin Ilya"
+
+ [Author]
+    name = "Калошин Илья"
+    bio = "Студент"
+    
+[params.colors]
+    background = "#000000"
+    circle = "#ccc224"
+    foreground = "#ffffff"
+    hover = "#000000"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/BrooklynIlya94/"
+
+    [[params.links]]
+        icon="vk"
+        title = "VK"
+        url="https://vk.com/ido4nitecb"
+
+    [[params.links]]
+       iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:mr.kaloshin.iv@yandex.ru"
+
+    [[params.links]]
+        #iconset = "fab"
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://www.instagram.com/brooklyndesigne/"
